@@ -27,3 +27,7 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+
+# AWS
+.trust
+.iam-role-policy
