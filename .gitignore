@@ -27,3 +27,4 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+.iam-role-policy
