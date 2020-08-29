@@ -4,7 +4,6 @@ Tests for jwt flask app.
 import os
 import json
 import pytest
-
 import main
 
 SECRET = 'TLMCYARD224'
