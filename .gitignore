@@ -19,6 +19,7 @@ __pycache__
 .env_file
 .direnv
 .iam-role-policy
+aws-auth-patch.yml
 
 # Coverage reports
 htmlcov/
